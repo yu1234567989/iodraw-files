@@ -34,12 +34,6 @@
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-10" value="手机APP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="390" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="440" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
