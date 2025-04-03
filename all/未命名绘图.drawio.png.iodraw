@@ -11,7 +11,7 @@
           <mxGeometry x="300" y="50" width="160" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-3" value="温湿度模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="44" y="118" width="141" height="48" as="geometry" />
+          <mxGeometry x="80" y="120" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-4" value="天然气传感器模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="217" width="188" height="48" as="geometry" />
