@@ -29,12 +29,7 @@
           <mxGeometry x="600" y="190" width="161" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-9" value="WiFi模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="580" y="400" width="124" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y8VI_Nomh59hCWYTXhSO-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="400" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="590" y="315" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-10" value="手机APP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="704" y="520" width="119" height="48" as="geometry" />
