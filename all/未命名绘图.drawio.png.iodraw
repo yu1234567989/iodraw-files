@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-1" value="烟雾传感器模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="60" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="70" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-2" value="单片机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="50" width="160" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-3" value="温湿度模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="160" height="40" as="geometry" />
+          <mxGeometry x="80" y="140" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-4" value="天然气传感器模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="220" width="160" height="48" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="80" y="300" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-6" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="66" y="390" width="174" height="48" as="geometry" />
+          <mxGeometry x="80" y="390" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-7" value="蜂鸣器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="90" width="160" height="50" as="geometry" />
@@ -33,6 +33,12 @@
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-10" value="手机APP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="390" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
