@@ -34,7 +34,7 @@
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-10" value="手机APP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="390" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.003;exitY=0.31;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Y8VI_Nomh59hCWYTXhSO-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="173.5" as="sourcePoint" />
             <mxPoint x="560" y="173.5" as="targetPoint" />
@@ -44,6 +44,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="89.5" as="sourcePoint" />
             <mxPoint x="560" y="89.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="99.5" as="sourcePoint" />
+            <mxPoint x="570" y="99.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
