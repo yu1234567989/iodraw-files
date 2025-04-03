@@ -23,7 +23,7 @@
           <mxGeometry x="27" y="414" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-7" value="蜂鸣器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="60" width="109" height="48" as="geometry" />
+          <mxGeometry x="565" y="88" width="109" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-8" value="OLED显示模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="190" width="161" height="48" as="geometry" />
@@ -39,18 +39,6 @@
             <Array as="points">
               <mxPoint x="233" y="44" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.32;entryY=0;rounded=0;" edge="1" parent="1" source="Y8VI_Nomh59hCWYTXhSO-3" target="Y8VI_Nomh59hCWYTXhSO-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="233" y="143" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="Y8VI_Nomh59hCWYTXhSO-4" target="Y8VI_Nomh59hCWYTXhSO-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.32;entryY=1;rounded=0;" edge="1" parent="1" source="Y8VI_Nomh59hCWYTXhSO-5" target="Y8VI_Nomh59hCWYTXhSO-2">
