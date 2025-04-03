@@ -23,7 +23,7 @@
           <mxGeometry x="27" y="414" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-7" value="蜂鸣器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="565" y="88" width="109" height="48" as="geometry" />
+          <mxGeometry x="565" y="88" width="155" height="52" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-8" value="OLED显示模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="190" width="161" height="48" as="geometry" />
