@@ -14,13 +14,13 @@
           <mxGeometry x="40" y="130" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-4" value="天然气传感器模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="220" width="160" height="48" as="geometry" />
+          <mxGeometry x="40" y="210" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-5" value="供电模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="300" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="295" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-6" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="390" width="160" height="48" as="geometry" />
+          <mxGeometry x="40" y="370" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-7" value="蜂鸣器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="60" width="160" height="50" as="geometry" />
