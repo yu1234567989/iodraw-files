@@ -78,8 +78,8 @@
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="317" as="sourcePoint" />
-            <mxPoint x="300" y="317" as="targetPoint" />
+            <mxPoint x="200" y="329.5" as="sourcePoint" />
+            <mxPoint x="300" y="329.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -104,7 +104,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wHbPaWUaYOgptGiAlQsn-7" value="供电模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="440" width="150" height="40" as="geometry" />
+          <mxGeometry x="50" y="310" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-8" value="烟雾传感器模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="90" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
