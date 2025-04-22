@@ -97,8 +97,8 @@
         <mxCell id="wHbPaWUaYOgptGiAlQsn-2" value="天然气传感器模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="50" y="198" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wHbPaWUaYOgptGiAlQsn-4" value="烟雾传感器模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="238" width="150" height="40" as="geometry" />
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-4" value="按键模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
