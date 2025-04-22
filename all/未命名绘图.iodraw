@@ -10,9 +10,6 @@
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-2" value="STM32F030C8T6" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="300" y="50" width="160" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-5" value="供电模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="40" y="300" width="160" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-6" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="370" width="160" height="48" as="geometry" />
         </mxCell>
@@ -106,7 +103,7 @@
             <mxPoint x="300" y="269.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wHbPaWUaYOgptGiAlQsn-7" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-7" value="供电模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="440" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
