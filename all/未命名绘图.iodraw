@@ -100,6 +100,12 @@
         <mxCell id="wHbPaWUaYOgptGiAlQsn-4" value="按键模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="50" y="250" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="227.5" as="sourcePoint" />
+            <mxPoint x="310" y="227.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
