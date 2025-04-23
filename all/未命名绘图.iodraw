@@ -147,11 +147,8 @@
         <mxCell id="dsQ0I1XTCybYZCivlw5s-46" value="数据处理及控制电机" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="930" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dsQ0I1XTCybYZCivlw5s-47" value="系统模式设置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dsQ0I1XTCybYZCivlw5s-47" value="向APPf发送电机状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1010" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dsQ0I1XTCybYZCivlw5s-48" value="系统模式设置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
