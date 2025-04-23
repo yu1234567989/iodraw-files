@@ -126,7 +126,7 @@
         <mxCell id="dsQ0I1XTCybYZCivlw5s-39" value="接受手机APP阈值参数信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="830" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dsQ0I1XTCybYZCivlw5s-40" value="系统模式设置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dsQ0I1XTCybYZCivlw5s-40" value="接受手机APP电机状态信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="840" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-41" value="判断是否超出阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
