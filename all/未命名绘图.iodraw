@@ -133,7 +133,7 @@
           <mxGeometry x="320" y="920" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-42" value="系统模式设置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1020" width="120" height="40" as="geometry" />
+          <mxGeometry x="300" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-43" value="系统模式设置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="1090" width="120" height="40" as="geometry" />
@@ -151,7 +151,7 @@
           <mxGeometry x="620" y="1010" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-48" value="系统模式设置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="900" width="120" height="40" as="geometry" />
+          <mxGeometry x="620" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
