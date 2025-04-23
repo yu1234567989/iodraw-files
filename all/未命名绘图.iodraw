@@ -158,6 +158,9 @@
         <mxCell id="dsQ0I1XTCybYZCivlw5s-43" value="蜂鸣器打开" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="1090" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dsQ0I1XTCybYZCivlw5s-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsQ0I1XTCybYZCivlw5s-44" target="dsQ0I1XTCybYZCivlw5s-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-44" value="电机关闭" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
@@ -198,7 +201,7 @@
             <Array as="points">
               <mxPoint x="360" y="1160" />
               <mxPoint x="760" y="1160" />
-              <mxPoint x="760" y="560" />
+              <mxPoint x="760" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
