@@ -93,6 +93,9 @@
         <mxCell id="dsQ0I1XTCybYZCivlw5s-25" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="588" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dsQ0I1XTCybYZCivlw5s-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsQ0I1XTCybYZCivlw5s-27" target="dsQ0I1XTCybYZCivlw5s-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-27" value="采集环境温度数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="605" width="120" height="40" as="geometry" />
         </mxCell>
@@ -110,6 +113,9 @@
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-34" value="采集烟雾，光敏和甲烷数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dsQ0I1XTCybYZCivlw5s-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsQ0I1XTCybYZCivlw5s-35" target="dsQ0I1XTCybYZCivlw5s-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-35" value="系统打包上传APP" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="730" width="120" height="40" as="geometry" />
