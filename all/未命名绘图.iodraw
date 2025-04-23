@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-8" value="联网是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="410" width="80" height="80" as="geometry" />
+          <mxGeometry x="310" y="440" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
