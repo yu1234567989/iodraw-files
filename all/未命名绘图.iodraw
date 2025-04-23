@@ -24,7 +24,11 @@
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsQ0I1XTCybYZCivlw5s-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="480" as="targetPoint" />
+            <mxPoint x="410" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="450" />
+              <mxPoint x="440" y="481" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-6" value="联网是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
