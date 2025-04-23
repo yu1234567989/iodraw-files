@@ -19,6 +19,9 @@
         <mxCell id="dsQ0I1XTCybYZCivlw5s-4" value="传感器初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="260" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dsQ0I1XTCybYZCivlw5s-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsQ0I1XTCybYZCivlw5s-5" target="dsQ0I1XTCybYZCivlw5s-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-5" value="WiFi连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="330" width="120" height="40" as="geometry" />
         </mxCell>
