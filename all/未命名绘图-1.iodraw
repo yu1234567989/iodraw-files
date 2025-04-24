@@ -226,14 +226,23 @@
         <mxCell id="OHziqmRL2zZlS6mPAclU-3" value="I2C初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="50" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHziqmRL2zZlS6mPAclU-4" target="OHziqmRL2zZlS6mPAclU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OHziqmRL2zZlS6mPAclU-4" value="设置显示字模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="120" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OHziqmRL2zZlS6mPAclU-5" value="调用显示字模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="200" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHziqmRL2zZlS6mPAclU-6" target="OHziqmRL2zZlS6mPAclU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OHziqmRL2zZlS6mPAclU-6" value="写入显示内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="270" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHziqmRL2zZlS6mPAclU-7" target="OHziqmRL2zZlS6mPAclU-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OHziqmRL2zZlS6mPAclU-7" value="显示结束？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-335" y="340" width="80" height="80" as="geometry" />
