@@ -47,7 +47,7 @@
         <mxCell id="OHziqmRL2zZlS6mPAclU-16" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-255" y="348" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OHziqmRL2zZlS6mPAclU-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="OHziqmRL2zZlS6mPAclU-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHziqmRL2zZlS6mPAclU-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-340" y="220" as="sourcePoint" />
             <mxPoint x="-290" y="170" as="targetPoint" />
