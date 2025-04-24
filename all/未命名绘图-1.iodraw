@@ -218,7 +218,7 @@
           <mxGeometry x="-750" y="-45" width="269" height="390" as="geometry" />
         </mxCell>
         <mxCell id="OHziqmRL2zZlS6mPAclU-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="-20" width="110" height="50" as="geometry" />
+          <mxGeometry x="-350" y="-20" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OHziqmRL2zZlS6mPAclU-3" value="I2C初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="50" width="110" height="40" as="geometry" />
@@ -233,7 +233,10 @@
           <mxGeometry x="-350" y="270" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OHziqmRL2zZlS6mPAclU-7" value="显示结束？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-335" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="-335" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-8" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="460" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
