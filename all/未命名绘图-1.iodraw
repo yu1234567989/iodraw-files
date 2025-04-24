@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dsQ0I1XTCybYZCivlw5s-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dsQ0I1XTCybYZCivlw5s-23" target="dsQ0I1XTCybYZCivlw5s-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dsQ0I1XTCybYZCivlw5s-23" value="OLED界面切换" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="605" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dsQ0I1XTCybYZCivlw5s-30" value="系统模式设置" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="730" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="OHziqmRL2zZlS6mPAclU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHziqmRL2zZlS6mPAclU-2" target="OHziqmRL2zZlS6mPAclU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -21,9 +12,6 @@
         </mxCell>
         <mxCell id="OHziqmRL2zZlS6mPAclU-3" value="I2C初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="50" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OHziqmRL2zZlS6mPAclU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHziqmRL2zZlS6mPAclU-4" target="OHziqmRL2zZlS6mPAclU-6">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OHziqmRL2zZlS6mPAclU-4" value="设置显示坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="120" width="110" height="40" as="geometry" />
