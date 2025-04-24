@@ -229,7 +229,7 @@
         <mxCell id="OHziqmRL2zZlS6mPAclU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHziqmRL2zZlS6mPAclU-4" target="OHziqmRL2zZlS6mPAclU-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OHziqmRL2zZlS6mPAclU-4" value="设置显示字模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OHziqmRL2zZlS6mPAclU-4" value="设置显示坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="120" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OHziqmRL2zZlS6mPAclU-5" value="调用显示字模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -263,8 +263,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OHziqmRL2zZlS6mPAclU-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-265" y="348" width="50" height="30" as="geometry" />
+        <mxCell id="OHziqmRL2zZlS6mPAclU-16" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-255" y="348" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
