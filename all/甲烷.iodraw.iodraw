@@ -17,7 +17,7 @@
           <mxGeometry x="359" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x2PbNiD5VWq4H6BXj_S5-5" value="显示数值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="359" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x2PbNiD5VWq4H6BXj_S5-6" value="设置阈值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="430" width="120" height="40" as="geometry" />
@@ -45,8 +45,8 @@
         </mxCell>
         <mxCell id="x2PbNiD5VWq4H6BXj_S5-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="100" as="sourcePoint" />
-            <mxPoint x="520" y="120" as="targetPoint" />
+            <mxPoint x="414" y="220" as="sourcePoint" />
+            <mxPoint x="494" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
