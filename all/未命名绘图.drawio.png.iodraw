@@ -4,23 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-1" value="烟雾传感器模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="40" y="70" width="160" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-2" value="单片机" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="300" y="50" width="160" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-3" value="温湿度模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="40" y="130" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-4" value="天然气传感器模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="40" y="210" width="160" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-5" value="供电模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="40" y="295" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-6" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="40" y="390" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-7" value="蜂鸣器" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="60" width="160" height="50" as="geometry" />
