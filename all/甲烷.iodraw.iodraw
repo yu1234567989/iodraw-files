@@ -22,7 +22,7 @@
         <mxCell id="x2PbNiD5VWq4H6BXj_S5-6" value="系统初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x2PbNiD5VWq4H6BXj_S5-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x2PbNiD5VWq4H6BXj_S5-8" value="是否按下设置" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="330" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
