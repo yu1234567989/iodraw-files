@@ -95,8 +95,12 @@
             <mxPoint x="480" y="150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="470" y="400" />
+              <mxPoint x="470" y="150" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x2PbNiD5VWq4H6BXj_S5-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="368" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
