@@ -14,10 +14,10 @@
           <mxGeometry x="530" y="120" width="159" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tnbgGtWivpq6t6HGOlED-2" value="风扇" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="200" width="159" height="40" as="geometry" />
+          <mxGeometry x="530" y="200" width="159" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tnbgGtWivpq6t6HGOlED-3" value="WIFI模块" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="280" width="159" height="40" as="geometry" />
+          <mxGeometry x="530" y="280" width="159" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tnbgGtWivpq6t6HGOlED-4" value="供电模块" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="360" width="159" height="40" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="70" y="40" width="159" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tnbgGtWivpq6t6HGOlED-9" value="手机APP" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="360" width="159" height="40" as="geometry" />
+          <mxGeometry x="530" y="360" width="159" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tnbgGtWivpq6t6HGOlED-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tnbgGtWivpq6t6HGOlED-8" target="Y8VI_Nomh59hCWYTXhSO-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -75,8 +75,8 @@
         </mxCell>
         <mxCell id="tnbgGtWivpq6t6HGOlED-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="289" y="120" as="sourcePoint" />
-            <mxPoint x="360" y="120" as="targetPoint" />
+            <mxPoint x="459" y="139.5" as="sourcePoint" />
+            <mxPoint x="530" y="139.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tnbgGtWivpq6t6HGOlED-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
