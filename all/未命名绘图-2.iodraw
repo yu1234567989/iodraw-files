@@ -1,0 +1,77 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="Ltii9aWmLOGmsKn_ncLW">
+    <mxGraphModel dx="1869" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OHziqmRL2zZlS6mPAclU-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="-20" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-3" value="SPI总线初始化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="50" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-4" value="设置显示坐标" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="120" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-5" value="调用显示字模" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="200" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OHziqmRL2zZlS6mPAclU-6" target="OHziqmRL2zZlS6mPAclU-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-6" value="写入显示内容" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="270" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OHziqmRL2zZlS6mPAclU-7" target="OHziqmRL2zZlS6mPAclU-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-7" value="显示结束？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-335" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-8" value="返回" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="450" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-13" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-285" y="408" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OHziqmRL2zZlS6mPAclU-7" target="OHziqmRL2zZlS6mPAclU-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="320" as="sourcePoint" />
+            <mxPoint x="-270" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-120" y="380" />
+              <mxPoint x="-120" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-16" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-255" y="348" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OHziqmRL2zZlS6mPAclU-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-340" y="220" as="sourcePoint" />
+            <mxPoint x="-295" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OHziqmRL2zZlS6mPAclU-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-340" y="220" as="sourcePoint" />
+            <mxPoint x="-295" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OHziqmRL2zZlS6mPAclU-4" target="OHziqmRL2zZlS6mPAclU-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-340" y="220" as="sourcePoint" />
+            <mxPoint x="-290" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHziqmRL2zZlS6mPAclU-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OHziqmRL2zZlS6mPAclU-5" target="OHziqmRL2zZlS6mPAclU-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-340" y="220" as="sourcePoint" />
+            <mxPoint x="-290" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
