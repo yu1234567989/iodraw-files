@@ -28,6 +28,9 @@
         <mxCell id="x2PbNiD5VWq4H6BXj_S5-10" value="超过阈值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="500" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="x2PbNiD5VWq4H6BXj_S5-11" value="设置阈值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
