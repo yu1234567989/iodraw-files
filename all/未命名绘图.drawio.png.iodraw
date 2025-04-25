@@ -22,7 +22,7 @@
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-6" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="390" width="160" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-7" value="蜂鸣器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-7" value="蜂鸣器" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="60" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-8" value="OLED显示模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
