@@ -20,22 +20,19 @@
           <mxGeometry x="360" y="160" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="170" width="90" height="40" as="geometry" />
+          <mxGeometry x="870" y="80" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="180" width="90" height="40" as="geometry" />
+          <mxGeometry x="840" y="130" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="294.5" width="90" height="45.5" as="geometry" />
+          <mxGeometry x="840" y="291.75" width="90" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="380" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EqF_vvVNQYsYPPirrT4F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EqF_vvVNQYsYPPirrT4F-8" target="EqF_vvVNQYsYPPirrT4F-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="840" y="370" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
