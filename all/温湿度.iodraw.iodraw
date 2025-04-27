@@ -34,6 +34,9 @@
         <mxCell id="EqF_vvVNQYsYPPirrT4F-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EqF_vvVNQYsYPPirrT4F-12" target="EqF_vvVNQYsYPPirrT4F-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EqF_vvVNQYsYPPirrT4F-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EqF_vvVNQYsYPPirrT4F-12" target="EqF_vvVNQYsYPPirrT4F-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-12" value="收到应答信号？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="320" width="80" height="80" as="geometry" />
         </mxCell>
@@ -46,7 +49,7 @@
         <mxCell id="EqF_vvVNQYsYPPirrT4F-13" value="校验通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EqF_vvVNQYsYPPirrT4F-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EqF_vvVNQYsYPPirrT4F-2">
+        <mxCell id="EqF_vvVNQYsYPPirrT4F-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EqF_vvVNQYsYPPirrT4F-2" target="EqF_vvVNQYsYPPirrT4F-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="190" as="sourcePoint" />
             <mxPoint x="580" y="140" as="targetPoint" />
