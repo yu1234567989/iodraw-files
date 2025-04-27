@@ -82,10 +82,13 @@
             <mxPoint x="440" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ohlc450KU_aqtPh2I49-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0ohlc450KU_aqtPh2I49-12">
+        <mxCell id="0ohlc450KU_aqtPh2I49-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0ohlc450KU_aqtPh2I49-12" target="0ohlc450KU_aqtPh2I49-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="300" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="240" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
