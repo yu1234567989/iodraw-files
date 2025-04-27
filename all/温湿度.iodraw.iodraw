@@ -17,10 +17,10 @@
           <mxGeometry x="410" y="190" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0ohlc450KU_aqtPh2I49-6" value="数据接收模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="390" width="90" height="20" as="geometry" />
+          <mxGeometry x="410" y="370" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0ohlc450KU_aqtPh2I49-7" value="LED闪烁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="350" width="90" height="20" as="geometry" />
+          <mxGeometry x="410" y="330" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0ohlc450KU_aqtPh2I49-10" value="发送数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="230" width="90" height="20" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="402.5" y="260" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ohlc450KU_aqtPh2I49-12" value="是否完全发送" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="420" width="105" height="60" as="geometry" />
+          <mxGeometry x="402.5" y="400" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0ohlc450KU_aqtPh2I49-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="500" width="90" height="20" as="geometry" />
