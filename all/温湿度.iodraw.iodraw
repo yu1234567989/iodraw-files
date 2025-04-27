@@ -13,7 +13,7 @@
         <mxCell id="EqF_vvVNQYsYPPirrT4F-3" value="配置io为输出状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="140" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EqF_vvVNQYsYPPirrT4F-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EqF_vvVNQYsYPPirrT4F-4" value="发送数据采集脉冲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
