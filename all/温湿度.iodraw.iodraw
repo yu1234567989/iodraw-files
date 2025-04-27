@@ -58,8 +58,11 @@
         <mxCell id="EqF_vvVNQYsYPPirrT4F-20" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="328" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EqF_vvVNQYsYPPirrT4F-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="408" width="50" height="30" as="geometry" />
+        <mxCell id="EqF_vvVNQYsYPPirrT4F-21" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="408" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EqF_vvVNQYsYPPirrT4F-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="388" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
