@@ -98,7 +98,7 @@
         <mxCell id="0ohlc450KU_aqtPh2I49-26" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="458" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0ohlc450KU_aqtPh2I49-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0ohlc450KU_aqtPh2I49-11">
+        <mxCell id="0ohlc450KU_aqtPh2I49-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0ohlc450KU_aqtPh2I49-11" target="0ohlc450KU_aqtPh2I49-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="450" as="sourcePoint" />
             <mxPoint x="440" y="400" as="targetPoint" />
