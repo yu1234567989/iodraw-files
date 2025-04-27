@@ -16,9 +16,6 @@
         <mxCell id="0ohlc450KU_aqtPh2I49-4" value="数据存储单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="210" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0ohlc450KU_aqtPh2I49-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="530" width="90" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="0ohlc450KU_aqtPh2I49-6" value="数据接收模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="390" width="90" height="20" as="geometry" />
         </mxCell>
@@ -33,6 +30,9 @@
         </mxCell>
         <mxCell id="0ohlc450KU_aqtPh2I49-12" value="是否成功发送" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="402.5" y="420" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ohlc450KU_aqtPh2I49-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.756;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0ohlc450KU_aqtPh2I49-2" target="0ohlc450KU_aqtPh2I49-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
