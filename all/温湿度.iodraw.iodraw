@@ -23,10 +23,10 @@
           <mxGeometry x="340" y="420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-7" value="读取40位数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="340" width="90" height="40" as="geometry" />
+          <mxGeometry x="475" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-8" value="读取完成返回结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="510" width="90" height="45.5" as="geometry" />
+          <mxGeometry x="475" y="510" width="90" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EqF_vvVNQYsYPPirrT4F-12" target="EqF_vvVNQYsYPPirrT4F-7">
           <mxGeometry relative="1" as="geometry" />
@@ -35,6 +35,9 @@
           <mxGeometry x="345" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EqF_vvVNQYsYPPirrT4F-13" target="EqF_vvVNQYsYPPirrT4F-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EqF_vvVNQYsYPPirrT4F-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EqF_vvVNQYsYPPirrT4F-13" target="EqF_vvVNQYsYPPirrT4F-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-13" value="校验通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
