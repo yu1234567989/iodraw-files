@@ -29,7 +29,7 @@
           <mxGeometry x="402.5" y="270" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0ohlc450KU_aqtPh2I49-12" value="是否完全发送" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="410" width="105" height="60" as="geometry" />
+          <mxGeometry x="402.5" y="410" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0ohlc450KU_aqtPh2I49-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="490" width="90" height="20" as="geometry" />
