@@ -112,7 +112,7 @@
           <mxGeometry x="500" y="268" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ohlc450KU_aqtPh2I49-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="298" width="50" height="30" as="geometry" />
+          <mxGeometry x="460" y="310" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
