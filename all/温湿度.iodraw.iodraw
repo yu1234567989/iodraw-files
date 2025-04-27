@@ -10,9 +10,6 @@
         <mxCell id="0ohlc450KU_aqtPh2I49-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="110" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0ohlc450KU_aqtPh2I49-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
