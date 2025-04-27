@@ -31,8 +31,8 @@
         <mxCell id="0ohlc450KU_aqtPh2I49-12" value="是否成功发送" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="402.5" y="420" width="105" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0ohlc450KU_aqtPh2I49-14" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="120" width="90" height="20" as="geometry" />
+        <mxCell id="0ohlc450KU_aqtPh2I49-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="500" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
