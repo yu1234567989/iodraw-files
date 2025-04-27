@@ -16,7 +16,7 @@
         <mxCell id="EqF_vvVNQYsYPPirrT4F-4" value="发送数据采集脉冲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EqF_vvVNQYsYPPirrT4F-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EqF_vvVNQYsYPPirrT4F-5" value="配置io口为输入状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EqF_vvVNQYsYPPirrT4F-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
