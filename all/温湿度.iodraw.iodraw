@@ -22,6 +22,9 @@
         <mxCell id="EqF_vvVNQYsYPPirrT4F-6" value="返回读取错误标志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="420" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EqF_vvVNQYsYPPirrT4F-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EqF_vvVNQYsYPPirrT4F-7" target="EqF_vvVNQYsYPPirrT4F-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EqF_vvVNQYsYPPirrT4F-7" value="读取40位数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475" y="340" width="90" height="40" as="geometry" />
         </mxCell>
@@ -43,7 +46,7 @@
         <mxCell id="EqF_vvVNQYsYPPirrT4F-13" value="校验通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EqF_vvVNQYsYPPirrT4F-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="EqF_vvVNQYsYPPirrT4F-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EqF_vvVNQYsYPPirrT4F-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="190" as="sourcePoint" />
             <mxPoint x="580" y="140" as="targetPoint" />
