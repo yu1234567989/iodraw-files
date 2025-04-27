@@ -34,8 +34,8 @@
         <mxCell id="EqF_vvVNQYsYPPirrT4F-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="370" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EqF_vvVNQYsYPPirrT4F-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="250" width="80" height="80" as="geometry" />
+        <mxCell id="EqF_vvVNQYsYPPirrT4F-12" value="收到应答信号？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
