@@ -17,10 +17,22 @@
           <mxGeometry x="410" y="226" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0ohlc450KU_aqtPh2I49-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="236" width="90" height="40" as="geometry" />
+          <mxGeometry x="740" y="380" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0ohlc450KU_aqtPh2I49-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="246" width="90" height="40" as="geometry" />
+          <mxGeometry x="737" y="226" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0ohlc450KU_aqtPh2I49-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0ohlc450KU_aqtPh2I49-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="290" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0ohlc450KU_aqtPh2I49-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="432" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0ohlc450KU_aqtPh2I49-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="286" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
