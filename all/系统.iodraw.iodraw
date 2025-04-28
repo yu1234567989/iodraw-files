@@ -64,6 +64,12 @@
             <mxPoint x="283" y="303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.845;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="Y8VI_Nomh59hCWYTXhSO-2" source="wHbPaWUaYOgptGiAlQsn-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="390" as="sourcePoint" />
+            <mxPoint x="278" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wHbPaWUaYOgptGiAlQsn-1" value="温湿度传感器模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="120" width="150" height="40" as="geometry" />
         </mxCell>
@@ -72,9 +78,6 @@
         </mxCell>
         <mxCell id="wHbPaWUaYOgptGiAlQsn-7" value="供电模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="280" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7aSIqQ_4yeDSuTec0b4N-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wHbPaWUaYOgptGiAlQsn-8" target="Y8VI_Nomh59hCWYTXhSO-2">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wHbPaWUaYOgptGiAlQsn-8" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="360" width="150" height="40" as="geometry" />
