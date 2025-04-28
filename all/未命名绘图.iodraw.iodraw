@@ -70,13 +70,13 @@
             <mxPoint x="300" y="217.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="wHbPaWUaYOgptGiAlQsn-7">
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.651;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="Y8VI_Nomh59hCWYTXhSO-2" source="wHbPaWUaYOgptGiAlQsn-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="329.5" as="sourcePoint" />
             <mxPoint x="283" y="303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.013;entryY=0.879;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="Y8VI_Nomh59hCWYTXhSO-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="390" as="sourcePoint" />
             <mxPoint x="300" y="390" as="targetPoint" />
@@ -92,7 +92,7 @@
           <mxGeometry x="50" y="280" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wHbPaWUaYOgptGiAlQsn-8" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="370" width="150" height="40" as="geometry" />
+          <mxGeometry x="50" y="360" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7aSIqQ_4yeDSuTec0b4N-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.012;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Y8VI_Nomh59hCWYTXhSO-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
