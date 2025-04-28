@@ -85,25 +85,22 @@
             <mxPoint x="300" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wHbPaWUaYOgptGiAlQsn-1" value="温湿度传感器模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-1" value="温湿度传感器模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="50" y="130" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wHbPaWUaYOgptGiAlQsn-2" value="天然气传感器模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-2" value="天然气传感器模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="50" y="198" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wHbPaWUaYOgptGiAlQsn-4" value="按键模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="250" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wHbPaWUaYOgptGiAlQsn-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="269.5" as="sourcePoint" />
             <mxPoint x="300" y="269.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wHbPaWUaYOgptGiAlQsn-7" value="供电模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-7" value="供电模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="50" y="310" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wHbPaWUaYOgptGiAlQsn-8" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-8" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="50" y="370" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
