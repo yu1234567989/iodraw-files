@@ -10,9 +10,6 @@
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-2" value="STM32F030C8T6" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="160" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-7" value="蜂鸣器" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="60" width="160" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-8" value="OLED显示模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="150" width="161" height="48" as="geometry" />
         </mxCell>
