@@ -88,13 +88,13 @@
         <mxCell id="wHbPaWUaYOgptGiAlQsn-1" value="温湿度传感器模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="50" y="130" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wHbPaWUaYOgptGiAlQsn-2" value="天然气传感器模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-2" value="天然气传感器模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="198" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wHbPaWUaYOgptGiAlQsn-7" value="供电模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="310" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wHbPaWUaYOgptGiAlQsn-8" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-8" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="370" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
