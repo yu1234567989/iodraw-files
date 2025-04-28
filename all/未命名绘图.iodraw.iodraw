@@ -58,7 +58,7 @@
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="Y8VI_Nomh59hCWYTXhSO-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="60" as="sourcePoint" />
-            <mxPoint x="290" y="60" as="targetPoint" />
+            <mxPoint x="280" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wHbPaWUaYOgptGiAlQsn-1" value="温湿度传感器模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="130" width="150" height="40" as="geometry" />
+          <mxGeometry x="50" y="120" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wHbPaWUaYOgptGiAlQsn-2" value="天然气传感器模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="198" width="150" height="40" as="geometry" />
