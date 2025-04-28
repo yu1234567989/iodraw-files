@@ -20,7 +20,7 @@
           <mxGeometry x="560" y="295" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-10" value="手机APP" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="561" y="400" width="160" height="50" as="geometry" />
+          <mxGeometry x="561" y="400" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.003;exitY=0.31;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Y8VI_Nomh59hCWYTXhSO-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
