@@ -91,7 +91,7 @@
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-2" value="STM32F030C8T6" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="160" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="7aSIqQ_4yeDSuTec0b4N-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.977;exitY=0.653;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y8VI_Nomh59hCWYTXhSO-2" target="Y8VI_Nomh59hCWYTXhSO-9">
+        <mxCell id="7aSIqQ_4yeDSuTec0b4N-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.977;exitY=0.653;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Y8VI_Nomh59hCWYTXhSO-2" target="Y8VI_Nomh59hCWYTXhSO-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="310" as="sourcePoint" />
             <mxPoint x="540" y="260" as="targetPoint" />
