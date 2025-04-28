@@ -14,7 +14,7 @@
           <mxGeometry x="560" y="60" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-8" value="OLED显示模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="150" width="150" height="48" as="geometry" />
+          <mxGeometry x="560" y="150" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-9" value="WiFi模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="295" width="160" height="45" as="geometry" />
