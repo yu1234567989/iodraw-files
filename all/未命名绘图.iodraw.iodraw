@@ -76,10 +76,10 @@
             <mxPoint x="283" y="303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y8VI_Nomh59hCWYTXhSO-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.013;entryY=0.879;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="Y8VI_Nomh59hCWYTXhSO-2">
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="390" as="sourcePoint" />
-            <mxPoint x="300" y="390" as="targetPoint" />
+            <mxPoint x="278" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wHbPaWUaYOgptGiAlQsn-1" value="温湿度传感器模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
