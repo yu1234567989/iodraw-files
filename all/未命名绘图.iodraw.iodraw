@@ -89,7 +89,7 @@
           <mxGeometry x="50" y="198" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wHbPaWUaYOgptGiAlQsn-7" value="供电模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="310" width="150" height="40" as="geometry" />
+          <mxGeometry x="50" y="280" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wHbPaWUaYOgptGiAlQsn-8" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="370" width="150" height="40" as="geometry" />
