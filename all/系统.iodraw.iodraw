@@ -1,0 +1,109 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="rXzR1YxQB5i4ZYBfx1wP">
+    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-1" value="烟雾传感器模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-7" value="蜂鸣器" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-8" value="OLED显示模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="120" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-9" value="WiFi模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-10" value="手机APP" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="360" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Y8VI_Nomh59hCWYTXhSO-2" edge="1" target="Y8VI_Nomh59hCWYTXhSO-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="173.5" as="sourcePoint" />
+            <mxPoint x="560" y="173.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="59" as="sourcePoint" />
+            <mxPoint x="540" y="59" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-29" value="风扇" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="198" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.003;exitY=0.31;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="218" as="sourcePoint" />
+            <mxPoint x="540" y="217.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="Y8VI_Nomh59hCWYTXhSO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="60" as="sourcePoint" />
+            <mxPoint x="280" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" edge="1" target="Y8VI_Nomh59hCWYTXhSO-2" source="wHbPaWUaYOgptGiAlQsn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="149" as="sourcePoint" />
+            <mxPoint x="300" y="149" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="Y8VI_Nomh59hCWYTXhSO-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="217.5" as="sourcePoint" />
+            <mxPoint x="300" y="217.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.651;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="Y8VI_Nomh59hCWYTXhSO-2" source="wHbPaWUaYOgptGiAlQsn-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="329.5" as="sourcePoint" />
+            <mxPoint x="283" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" source="wHbPaWUaYOgptGiAlQsn-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="390" as="sourcePoint" />
+            <mxPoint x="278" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-1" value="温湿度传感器模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="120" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-2" value="天然气传感器模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="198" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-7" value="供电模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wHbPaWUaYOgptGiAlQsn-8" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="360" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7aSIqQ_4yeDSuTec0b4N-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.012;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Y8VI_Nomh59hCWYTXhSO-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="217.5" as="sourcePoint" />
+            <mxPoint x="300" y="217.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y8VI_Nomh59hCWYTXhSO-2" value="STM32F030C8T6" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="40" width="160" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="7aSIqQ_4yeDSuTec0b4N-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.977;exitY=0.653;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Y8VI_Nomh59hCWYTXhSO-2" target="Y8VI_Nomh59hCWYTXhSO-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="310" as="sourcePoint" />
+            <mxPoint x="540" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7aSIqQ_4yeDSuTec0b4N-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Y8VI_Nomh59hCWYTXhSO-10" target="Y8VI_Nomh59hCWYTXhSO-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="310" as="sourcePoint" />
+            <mxPoint x="540" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
