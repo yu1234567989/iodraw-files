@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-1" value="烟雾传感器模块" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="50" width="150" height="40" as="geometry" />
+          <mxGeometry x="50" y="40" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-2" value="STM32F030C8T6" style="whiteSpace=wrap;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="160" height="400" as="geometry" />
@@ -57,8 +57,8 @@
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="89.5" as="sourcePoint" />
-            <mxPoint x="300" y="89.5" as="targetPoint" />
+            <mxPoint x="190" y="60" as="sourcePoint" />
+            <mxPoint x="290" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y8VI_Nomh59hCWYTXhSO-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
