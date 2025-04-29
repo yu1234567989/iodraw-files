@@ -35,9 +35,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QtF4fFEvii_GngXtSdx5-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="480" width="90" height="40" as="geometry" />
+          <mxGeometry x="340" y="510" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QtF4fFEvii_GngXtSdx5-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="QtF4fFEvii_GngXtSdx5-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QtF4fFEvii_GngXtSdx5-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="440" y="270" as="targetPoint" />
