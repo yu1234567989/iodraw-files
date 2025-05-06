@@ -13,8 +13,8 @@
         <mxCell id="FMaJfKslSsyLdCE6g37h-4" value="停止标志位？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="200" width="186" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FMaJfKslSsyLdCE6g37h-5" value="停止标志位？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="321" y="210" width="186" height="40" as="geometry" />
+        <mxCell id="FMaJfKslSsyLdCE6g37h-5" value="顺时针转动标志位？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311" y="340" width="186" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
