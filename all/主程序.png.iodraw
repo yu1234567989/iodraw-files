@@ -43,8 +43,14 @@
         <mxCell id="jRdpnyFH10TD3lHWu1AS-57" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="328" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jRdpnyFH10TD3lHWu1AS-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="338" width="50" height="30" as="geometry" />
+        <mxCell id="jRdpnyFH10TD3lHWu1AS-58" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="338" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jRdpnyFH10TD3lHWu1AS-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jRdpnyFH10TD3lHWu1AS-46" target="jRdpnyFH10TD3lHWu1AS-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="520" as="sourcePoint" />
+            <mxPoint x="440" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
