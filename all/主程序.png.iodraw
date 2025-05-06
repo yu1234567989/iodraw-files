@@ -77,6 +77,9 @@
             <mxPoint x="420" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Uv2GGoOSBo4JKM1nKWhN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsQ0I1XTCybYZCivlw5s-22" target="dsQ0I1XTCybYZCivlw5s-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-22" value="是否有按键按下" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="585" width="80" height="80" as="geometry" />
         </mxCell>
@@ -90,7 +93,7 @@
           <mxGeometry x="300" y="618" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-30" value="系统模式设置" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="605" width="120" height="40" as="geometry" />
+          <mxGeometry x="610" y="605" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dsQ0I1XTCybYZCivlw5s-32" target="dsQ0I1XTCybYZCivlw5s-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
