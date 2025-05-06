@@ -19,8 +19,14 @@
         <mxCell id="jRdpnyFH10TD3lHWu1AS-9" value="写入指令，传感器通电" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jRdpnyFH10TD3lHWu1AS-10" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="100" width="120" height="40" as="geometry" />
+        <mxCell id="jRdpnyFH10TD3lHWu1AS-10" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jRdpnyFH10TD3lHWu1AS-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jRdpnyFH10TD3lHWu1AS-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
