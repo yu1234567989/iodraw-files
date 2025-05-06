@@ -101,7 +101,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="220" as="sourcePoint" />
             <mxPoint x="400" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="330" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FMaJfKslSsyLdCE6g37h-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="238" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
