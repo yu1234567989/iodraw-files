@@ -20,7 +20,7 @@
           <mxGeometry x="230" y="350" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRdpnyFH10TD3lHWu1AS-47" value="根据用户输入确定风速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="560" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRdpnyFH10TD3lHWu1AS-48" value="格局传感器数据确定风速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="440" width="100" height="40" as="geometry" />
@@ -39,6 +39,12 @@
             <mxPoint x="390" y="520" as="sourcePoint" />
             <mxPoint x="330" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jRdpnyFH10TD3lHWu1AS-57" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="328" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jRdpnyFH10TD3lHWu1AS-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="338" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
