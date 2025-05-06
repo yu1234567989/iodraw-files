@@ -22,8 +22,8 @@
         <mxCell id="jRdpnyFH10TD3lHWu1AS-49" value="检测用户输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="420" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jRdpnyFH10TD3lHWu1AS-51" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="270" width="100" height="40" as="geometry" />
+        <mxCell id="jRdpnyFH10TD3lHWu1AS-51" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="630" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
