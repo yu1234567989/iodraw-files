@@ -22,8 +22,11 @@
         <mxCell id="FMaJfKslSsyLdCE6g37h-7" value="输出控制信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="490" width="146" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FMaJfKslSsyLdCE6g37h-8" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FMaJfKslSsyLdCE6g37h-8" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="565" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMaJfKslSsyLdCE6g37h-9" value="顺时针转动标志位？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="350" width="186" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
