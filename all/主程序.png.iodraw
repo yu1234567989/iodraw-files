@@ -10,6 +10,9 @@
         <mxCell id="jRdpnyFH10TD3lHWu1AS-43" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="240" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jRdpnyFH10TD3lHWu1AS-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jRdpnyFH10TD3lHWu1AS-44" target="jRdpnyFH10TD3lHWu1AS-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jRdpnyFH10TD3lHWu1AS-44" value="判断是否为自动模式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="320" width="130" height="80" as="geometry" />
         </mxCell>
@@ -23,10 +26,10 @@
           <mxGeometry x="230" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRdpnyFH10TD3lHWu1AS-49" value="检测用户输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="340" width="100" height="40" as="geometry" />
+          <mxGeometry x="560" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRdpnyFH10TD3lHWu1AS-51" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="590" width="100" height="40" as="geometry" />
+          <mxGeometry x="395" y="585" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRdpnyFH10TD3lHWu1AS-52" value="控制风扇运行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="395" y="510" width="100" height="40" as="geometry" />
