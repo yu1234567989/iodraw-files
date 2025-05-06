@@ -10,6 +10,15 @@
         <mxCell id="jRdpnyFH10TD3lHWu1AS-2" value="时钟和引脚初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="210" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jRdpnyFH10TD3lHWu1AS-3" value="时钟和引脚初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jRdpnyFH10TD3lHWu1AS-4" value="时钟和引脚初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jRdpnyFH10TD3lHWu1AS-5" value="时钟和引脚初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
