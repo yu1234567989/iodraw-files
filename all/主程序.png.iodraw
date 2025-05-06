@@ -29,7 +29,10 @@
           <mxGeometry x="600" y="340" width="186" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FMaJfKslSsyLdCE6g37h-10" value="确定当前通电相" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="341" y="420" width="146" height="40" as="geometry" />
+          <mxGeometry x="640" y="410" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMaJfKslSsyLdCE6g37h-11" value="确定当前通电相" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="500" width="146" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
