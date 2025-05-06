@@ -16,7 +16,7 @@
         <mxCell id="FMaJfKslSsyLdCE6g37h-5" value="顺时针转动标志位？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="340" width="186" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FMaJfKslSsyLdCE6g37h-6" value="输出电机动作命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FMaJfKslSsyLdCE6g37h-6" value="确定当前通电相" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="410" width="146" height="40" as="geometry" />
         </mxCell>
       </root>
