@@ -8,10 +8,10 @@
           <mxGeometry x="370" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRdpnyFH10TD3lHWu1AS-2" value="时钟和引脚初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jRdpnyFH10TD3lHWu1AS-3" value="时钟和引脚初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="220" width="120" height="40" as="geometry" />
+        <mxCell id="jRdpnyFH10TD3lHWu1AS-3" value="写入指令，传感器通电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jRdpnyFH10TD3lHWu1AS-4" value="时钟和引脚初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="170" width="120" height="40" as="geometry" />
