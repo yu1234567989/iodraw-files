@@ -127,7 +127,7 @@
         <mxCell id="dsQ0I1XTCybYZCivlw5s-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dsQ0I1XTCybYZCivlw5s-40" target="dsQ0I1XTCybYZCivlw5s-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dsQ0I1XTCybYZCivlw5s-40" value="接受手机APP电机状态信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dsQ0I1XTCybYZCivlw5s-40" value="接受电机状态信息" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="830" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-41" value="判断是否超出阈值" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
