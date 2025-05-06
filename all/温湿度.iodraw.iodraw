@@ -4,6 +4,84 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_KbrG2FbHevCHWAof_FU-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-2" value="配置io为输出状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-3" value="发送数据采集脉冲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-4" value="配置io口为输入状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-5" value="返回读取错误标志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KbrG2FbHevCHWAof_FU-7" target="_KbrG2FbHevCHWAof_FU-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-7" value="读取40位数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="340" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-8" value="读取完成返回结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="510" width="90" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KbrG2FbHevCHWAof_FU-11" target="_KbrG2FbHevCHWAof_FU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KbrG2FbHevCHWAof_FU-11" target="_KbrG2FbHevCHWAof_FU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-11" value="收到应答信号？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KbrG2FbHevCHWAof_FU-14" target="_KbrG2FbHevCHWAof_FU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_KbrG2FbHevCHWAof_FU-14" target="_KbrG2FbHevCHWAof_FU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-14" value="校验通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_KbrG2FbHevCHWAof_FU-1" target="_KbrG2FbHevCHWAof_FU-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="190" as="sourcePoint" />
+            <mxPoint x="580" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-16" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="328" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-17" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="408" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-18" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="388" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-19" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="468" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_KbrG2FbHevCHWAof_FU-2" target="_KbrG2FbHevCHWAof_FU-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_KbrG2FbHevCHWAof_FU-3" target="_KbrG2FbHevCHWAof_FU-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_KbrG2FbHevCHWAof_FU-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_KbrG2FbHevCHWAof_FU-4" target="_KbrG2FbHevCHWAof_FU-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
