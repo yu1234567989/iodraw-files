@@ -80,7 +80,7 @@
         <mxCell id="dsQ0I1XTCybYZCivlw5s-22" value="是否有按键按下" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="585" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dsQ0I1XTCybYZCivlw5s-25" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="dsQ0I1XTCybYZCivlw5s-25" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="588" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dsQ0I1XTCybYZCivlw5s-27" target="dsQ0I1XTCybYZCivlw5s-35" edge="1">
@@ -90,7 +90,7 @@
           <mxGeometry x="300" y="618" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-30" value="系统模式设置" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="707" y="470" width="120" height="40" as="geometry" />
+          <mxGeometry x="630" y="605" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dsQ0I1XTCybYZCivlw5s-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dsQ0I1XTCybYZCivlw5s-32" target="dsQ0I1XTCybYZCivlw5s-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
