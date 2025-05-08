@@ -49,13 +49,13 @@
           <mxGeometry x="402.5" y="463" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-245" value="LED闪烁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="408" width="90" height="20" as="geometry" />
+          <mxGeometry x="410" y="438" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-246" value="发送数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="320" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-247" value="是否成功发送" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="340" width="105" height="50" as="geometry" />
+          <mxGeometry x="510" y="388" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-248" value="是否完全发送" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="530" width="105" height="50" as="geometry" />
@@ -136,9 +136,6 @@
               <mxPoint x="540" y="240" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-262" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="268" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-263" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="474" y="318" width="40" height="30" as="geometry" />
