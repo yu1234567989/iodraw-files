@@ -29,7 +29,7 @@
           <mxGeometry x="157.5" y="750" width="167" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-75" value="是否有按键按下?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="217" y="834" width="167" height="167" as="geometry" />
+          <mxGeometry x="158" y="834" width="167" height="126" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-76" value="系统模式设置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="303" y="1073" width="156" height="48" as="geometry" />
