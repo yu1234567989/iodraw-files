@@ -59,7 +59,7 @@
           <mxGeometry x="298" y="1270" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-86" value="电机自动打开" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1430" width="156" height="48" as="geometry" />
+          <mxGeometry x="423" y="1400" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-87" value="向APP发送电机状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="423" y="2288" width="199" height="48" as="geometry" />
