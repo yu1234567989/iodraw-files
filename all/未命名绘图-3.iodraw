@@ -54,7 +54,7 @@
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-228" value="根据用户输入确定风速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-229" value="格局传感器数据确定风速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-229" value="根据传感器数据确定风速" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-230" value="检测用户输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -90,7 +90,7 @@
             <mxPoint x="440" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-238" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-229">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-238" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-229" target="4EBo5kg4xFw8WVFGGTU2-232">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="620" as="sourcePoint" />
             <mxPoint x="390" y="530" as="targetPoint" />
