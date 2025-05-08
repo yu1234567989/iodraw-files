@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-241" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="414" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-242" value="初始化WIFI模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="190" width="100" height="40" as="geometry" />
