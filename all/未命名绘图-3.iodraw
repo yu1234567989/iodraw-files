@@ -47,7 +47,7 @@
           <mxGeometry x="163.5" y="1089" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-82" value="数据处理及控制电机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="1550" width="204" height="48" as="geometry" />
+          <mxGeometry x="145" y="1250" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-83" value="接受电机状态信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="145" y="2288" width="188" height="48" as="geometry" />
@@ -115,13 +115,6 @@
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-103" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-80" target="4EBo5kg4xFw8WVFGGTU2-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-104" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-81" target="4EBo5kg4xFw8WVFGGTU2-82">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="451" y="1800" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-105" value="否" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
