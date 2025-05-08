@@ -36,9 +36,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-208" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="468" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-210" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="190" width="90" height="40" as="geometry" />
         </mxCell>
@@ -80,16 +77,6 @@
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-219" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="378" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-220" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-212">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="385" y="490" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="480" y="350" />
-              <mxPoint x="480" y="490" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-221" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="408" width="40" height="30" as="geometry" />
