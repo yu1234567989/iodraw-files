@@ -19,9 +19,6 @@
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-72" value="依网是否成功?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="163.5" y="410" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-73" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="198" y="1910" width="92" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-74" value="与APP建立连接" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="530" width="167" height="48" as="geometry" />
         </mxCell>
@@ -122,9 +119,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-107" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-84" target="4EBo5kg4xFw8WVFGGTU2-73">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-107" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-84">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="248" y="1910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-108" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-82" target="4EBo5kg4xFw8WVFGGTU2-85">
@@ -132,12 +130,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-110" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=1;entryY=0.16;rounded=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-85" target="4EBo5kg4xFw8WVFGGTU2-73">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-110" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=1;entryY=0.16;rounded=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-85">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="378" y="2153" />
               <mxPoint x="378" y="2460" />
             </Array>
+            <mxPoint x="298" y="1917.6799999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-111" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-86" target="4EBo5kg4xFw8WVFGGTU2-87">
@@ -150,11 +149,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-113" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=1;entryY=0.33;rounded=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-88" target="4EBo5kg4xFw8WVFGGTU2-73">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-113" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=1;entryY=0.33;rounded=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-88">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="523" y="2460" />
             </Array>
+            <mxPoint x="298" y="1925.8400000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-114" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-72">
