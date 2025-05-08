@@ -17,7 +17,7 @@
           <mxGeometry x="178" y="340" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-72" value="依网是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="163.5" y="410" width="151" height="151" as="geometry" />
+          <mxGeometry x="163.5" y="410" width="151" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-73" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="193" y="2485" width="92" height="48" as="geometry" />
@@ -198,6 +198,7 @@
             <mxPoint x="440" y="910" as="sourcePoint" />
             <mxPoint x="190" y="2520" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="120" y="450" />
               <mxPoint x="120" y="588" />
               <mxPoint x="80" y="2520" />
             </Array>
