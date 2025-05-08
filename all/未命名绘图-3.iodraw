@@ -20,7 +20,7 @@
           <mxGeometry x="163.5" y="410" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-73" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="193" y="2485" width="92" height="48" as="geometry" />
+          <mxGeometry x="200" y="1970" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-74" value="与APP建立连接" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="530" width="167" height="48" as="geometry" />
@@ -242,8 +242,8 @@
             <mxPoint x="164" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-131" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1158" width="50" height="30" as="geometry" />
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-131" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1158" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
