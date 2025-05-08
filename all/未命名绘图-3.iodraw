@@ -58,7 +58,7 @@
           <mxGeometry x="390" y="390" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-248" value="是否完全发送" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389" y="620" width="150" height="100" as="geometry" />
+          <mxGeometry x="389" y="620" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-249" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="740" width="100" height="40" as="geometry" />
@@ -140,6 +140,9 @@
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-263" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="360" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-268" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="598" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
