@@ -14,9 +14,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-115" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="778" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-122" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="4EBo5kg4xFw8WVFGGTU2-132">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="165" y="650" as="sourcePoint" />
@@ -28,9 +25,6 @@
               <mxPoint x="150" y="1600" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-125" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="658" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
