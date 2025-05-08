@@ -29,7 +29,7 @@
           <mxGeometry x="165" y="610" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-76" value="系统模式设置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="189" y="710" width="156" height="48" as="geometry" />
+          <mxGeometry x="166.5" y="710" width="100" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-77" value="采集环境温度数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="287" y="1171" width="188" height="48" as="geometry" />
@@ -217,7 +217,7 @@
               <mxPoint x="120" y="650" />
               <mxPoint x="120" y="1590" />
               <mxPoint x="120" y="2070" />
-              <mxPoint x="110" y="2510" />
+              <mxPoint x="120" y="2511" />
             </Array>
           </mxGeometry>
         </mxCell>
