@@ -4,86 +4,104 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_KbrG2FbHevCHWAof_FU-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="80" width="90" height="40" as="geometry" />
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-23" value="烟雾传感器模块" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-2" value="配置io为输出状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="140" width="90" height="40" as="geometry" />
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-24" value="蜂鸣器" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="40" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-3" value="发送数据采集脉冲" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="200" width="90" height="40" as="geometry" />
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-25" value="OLED显示模块" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="120" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-4" value="配置io口为输入状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="260" width="90" height="40" as="geometry" />
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-26" value="WiFi模块" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-5" value="返回读取错误标志" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="420" width="90" height="40" as="geometry" />
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-27" value="手机APP" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_KbrG2FbHevCHWAof_FU-7" target="_KbrG2FbHevCHWAof_FU-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-7" value="读取40位数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="475" y="340" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_KbrG2FbHevCHWAof_FU-11" target="_KbrG2FbHevCHWAof_FU-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_KbrG2FbHevCHWAof_FU-11" target="_KbrG2FbHevCHWAof_FU-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-11" value="收到应答信号？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="345" y="320" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_KbrG2FbHevCHWAof_FU-14" target="_KbrG2FbHevCHWAof_FU-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-14" value="校验通过？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="400" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_KbrG2FbHevCHWAof_FU-1" target="_KbrG2FbHevCHWAof_FU-2" edge="1">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-41" target="4EBo5kg4xFw8WVFGGTU2-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="190" as="sourcePoint" />
-            <mxPoint x="580" y="140" as="targetPoint" />
+            <mxPoint x="450" y="173.5" as="sourcePoint" />
+            <mxPoint x="560" y="173.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-16" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="410" y="328" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-17" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="430" y="408" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-18" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="388" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-19" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="520" y="468" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_KbrG2FbHevCHWAof_FU-2" target="_KbrG2FbHevCHWAof_FU-3" edge="1">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="440" y="270" as="targetPoint" />
+            <mxPoint x="440" y="59" as="sourcePoint" />
+            <mxPoint x="540" y="59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_KbrG2FbHevCHWAof_FU-3" target="_KbrG2FbHevCHWAof_FU-4" edge="1">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-30" value="电机风扇" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="198" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.441;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="440" y="270" as="targetPoint" />
+            <mxPoint x="440" y="218" as="sourcePoint" />
+            <mxPoint x="540" y="217.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_KbrG2FbHevCHWAof_FU-4" target="_KbrG2FbHevCHWAof_FU-11" edge="1">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="440" y="270" as="targetPoint" />
+            <mxPoint x="190" y="60" as="sourcePoint" />
+            <mxPoint x="280" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_KbrG2FbHevCHWAof_FU-14" target="_KbrG2FbHevCHWAof_FU-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="480" as="sourcePoint" />
-            <mxPoint x="520" y="539" as="targetPoint" />
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-36" target="4EBo5kg4xFw8WVFGGTU2-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="149" as="sourcePoint" />
+            <mxPoint x="300" y="149" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_KbrG2FbHevCHWAof_FU-24" value="返回" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="475" y="510" width="90" height="40" as="geometry" />
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="217.5" as="sourcePoint" />
+            <mxPoint x="300" y="217.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.651;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-38" target="4EBo5kg4xFw8WVFGGTU2-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="329.5" as="sourcePoint" />
+            <mxPoint x="283" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-36" value="温湿度传感器模块" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-37" value="甲烷传感器模块" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="198" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-38" value="按键模块" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-39" value="光敏电阻传感器" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.11;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.012;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4EBo5kg4xFw8WVFGGTU2-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="217.5" as="sourcePoint" />
+            <mxPoint x="300" y="217.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-41" value="STM32F030C8T6" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="160" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="4EBo5kg4xFw8WVFGGTU2-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="300" as="sourcePoint" />
+            <mxPoint x="540" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-43" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-27" target="4EBo5kg4xFw8WVFGGTU2-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="310" as="sourcePoint" />
+            <mxPoint x="540" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="379.5" as="sourcePoint" />
+            <mxPoint x="280" y="379.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
