@@ -43,10 +43,10 @@
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-80" value="OLED界面数据刷新" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="188.5" y="1020" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-81" value="判断是否为自动模式?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-81" value="判断是否为自动模式?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="163.5" y="1089" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-82" value="数据处理及控制电机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-82" value="数据处理及控制电机" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="323" y="1190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-83" value="接受电机状态信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -55,10 +55,10 @@
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-84" value="设置阈值参数信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="145" y="2386" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-85" value="判断是否超出阈值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-85" value="判断是否超出阈值?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="298" y="1270" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-86" value="电机自动打开" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-86" value="电机自动打开" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="453" y="1360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-87" value="向APP发送电机状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
