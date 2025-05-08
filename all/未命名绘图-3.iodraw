@@ -49,7 +49,7 @@
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-83" value="接受电机状态信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="1360" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-84" value="设置阈值参数信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-84" value="设置阈值参数信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="155.5" y="1430" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-85" value="判断是否超出阈值?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -228,7 +228,7 @@
           <mxGeometry x="160" y="1158" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-132" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="152" y="1880" width="100" height="40" as="geometry" />
+          <mxGeometry x="155.5" y="1590" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-133" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.98;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-85" target="4EBo5kg4xFw8WVFGGTU2-132">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
