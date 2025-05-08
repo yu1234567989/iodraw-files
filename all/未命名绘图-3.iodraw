@@ -37,13 +37,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-241" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="414" y="110" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-242" value="初始化WIFI模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-243" value="数据存储单元" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="248" width="90" height="20" as="geometry" />
+          <mxGeometry x="419" y="260" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-244" value="数据接收模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="402.5" y="463" width="90" height="20" as="geometry" />
