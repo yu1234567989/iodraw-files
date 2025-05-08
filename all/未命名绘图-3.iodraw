@@ -134,12 +134,12 @@
             <mxPoint x="440" y="400" as="targetPoint" />
             <Array as="points">
               <mxPoint x="570" y="430" />
-              <mxPoint x="570" y="340" />
+              <mxPoint x="570" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-263" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="350" width="40" height="30" as="geometry" />
+          <mxGeometry x="540" y="360" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
