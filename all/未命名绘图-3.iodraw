@@ -118,12 +118,12 @@
             <Array as="points">
               <mxPoint x="360" y="660" />
               <mxPoint x="360" y="445" />
-              <mxPoint x="360" y="240" />
+              <mxPoint x="360" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-259" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="410" width="40" height="30" as="geometry" />
+          <mxGeometry x="350" y="620" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-260" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="510" width="40" height="30" as="geometry" />
