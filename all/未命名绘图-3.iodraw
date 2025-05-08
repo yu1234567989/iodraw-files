@@ -10,8 +10,11 @@
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-46" value="配置AO引脚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="160" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-47" value="配置AO引脚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="170" width="100" height="40" as="geometry" />
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-47" value="产生时钟信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-48" value="配置AO引脚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
