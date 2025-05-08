@@ -29,7 +29,7 @@
           <mxGeometry x="165" y="610" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-76" value="系统模式设置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="808" width="156" height="48" as="geometry" />
+          <mxGeometry x="189" y="710" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-77" value="采集环境温度数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="287" y="1171" width="188" height="48" as="geometry" />
@@ -90,14 +90,6 @@
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-96" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-74" target="4EBo5kg4xFw8WVFGGTU2-75">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-97" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0;entryY=0.17;rounded=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-75" target="4EBo5kg4xFw8WVFGGTU2-73">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="94" y="1037" />
-              <mxPoint x="94" y="2460" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-99" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="4EBo5kg4xFw8WVFGGTU2-76" target="4EBo5kg4xFw8WVFGGTU2-77">
@@ -215,6 +207,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="340" as="sourcePoint" />
             <mxPoint x="490" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-122" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="840" as="sourcePoint" />
+            <mxPoint x="490" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
