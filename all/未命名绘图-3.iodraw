@@ -16,7 +16,7 @@
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-71" value="WIFI连接" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="178" y="340" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="4EBo5kg4xFw8WVFGGTU2-72" value="依网是否成功?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="4EBo5kg4xFw8WVFGGTU2-72" value="连网是否成功?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="165" y="410" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4EBo5kg4xFw8WVFGGTU2-74" value="与APP建立连接" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
