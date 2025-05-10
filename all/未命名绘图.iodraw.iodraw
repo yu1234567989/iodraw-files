@@ -47,7 +47,7 @@
           <mxGeometry x="323" y="1190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9G1MWjfBHo_AQVidptoA-15" value="接受电机状态信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="155.5" y="1360" width="100" height="40" as="geometry" />
+          <mxGeometry x="160" y="1360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9G1MWjfBHo_AQVidptoA-16" value="设置阈值参数信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1430" width="100" height="40" as="geometry" />
@@ -143,7 +143,7 @@
         <mxCell id="9G1MWjfBHo_AQVidptoA-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9G1MWjfBHo_AQVidptoA-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="910" as="sourcePoint" />
-            <mxPoint x="200" y="1550" as="targetPoint" />
+            <mxPoint x="210" y="1550" as="targetPoint" />
             <Array as="points">
               <mxPoint x="90" y="450" />
               <mxPoint x="90" y="1550" />
@@ -174,7 +174,7 @@
         <mxCell id="9G1MWjfBHo_AQVidptoA-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9G1MWjfBHo_AQVidptoA-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="840" as="sourcePoint" />
-            <mxPoint x="206" y="1530" as="targetPoint" />
+            <mxPoint x="210" y="1530" as="targetPoint" />
             <Array as="points">
               <mxPoint x="120" y="650" />
               <mxPoint x="120" y="1530" />
