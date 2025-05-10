@@ -245,7 +245,7 @@
         <mxCell id="9G1MWjfBHo_AQVidptoA-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9G1MWjfBHo_AQVidptoA-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="1910" as="sourcePoint" />
-            <mxPoint x="300" y="1570" as="targetPoint" />
+            <mxPoint x="210" y="1570" as="targetPoint" />
             <Array as="points">
               <mxPoint x="503" y="1570" />
             </Array>
