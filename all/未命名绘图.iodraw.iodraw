@@ -91,16 +91,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bwaT_rcBIZcrtEscreeM-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="bwaT_rcBIZcrtEscreeM-9">
+        <mxCell id="bwaT_rcBIZcrtEscreeM-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bwaT_rcBIZcrtEscreeM-9" target="bwaT_rcBIZcrtEscreeM-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="237" y="1000" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bwaT_rcBIZcrtEscreeM-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="bwaT_rcBIZcrtEscreeM-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="237" y="1040" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="bwaT_rcBIZcrtEscreeM-11" target="bwaT_rcBIZcrtEscreeM-12">
