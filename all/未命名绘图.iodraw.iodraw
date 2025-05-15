@@ -217,9 +217,9 @@
         <mxCell id="bwaT_rcBIZcrtEscreeM-56" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bwaT_rcBIZcrtEscreeM-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="520" as="sourcePoint" />
-            <mxPoint x="120" y="860" as="targetPoint" />
+            <mxPoint x="120" y="900" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="120" y="680" />
+              <mxPoint x="120" y="723" />
             </Array>
           </mxGeometry>
         </mxCell>
