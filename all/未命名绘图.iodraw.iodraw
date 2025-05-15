@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bwaT_rcBIZcrtEscreeM-1" value="系统上电初始化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="187" y="460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-2" value="OLED初始化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="500" width="100" height="40" as="geometry" />
+          <mxGeometry x="187" y="520" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-3" value="传感器初始化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="590" width="100" height="40" as="geometry" />
