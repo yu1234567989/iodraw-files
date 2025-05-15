@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bwaT_rcBIZcrtEscreeM-1" value="系统上电初始化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="186" y="240" width="100" height="40" as="geometry" />
+          <mxGeometry x="186" y="240" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-2" value="OLED初始化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="174" y="310" width="124" height="48" as="geometry" />
