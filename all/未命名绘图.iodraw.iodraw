@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bwaT_rcBIZcrtEscreeM-1" value="系统上电初始化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="420" width="100" height="40" as="geometry" />
+          <mxGeometry x="187" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-2" value="OLED初始化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="480" width="100" height="40" as="geometry" />
+          <mxGeometry x="187" y="500" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-3" value="传感器初始化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="560" width="100" height="40" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry x="187" y="1030" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-11" value="系统打包上传APP" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="1090" width="100" height="40" as="geometry" />
+          <mxGeometry x="187" y="1100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-12" value="OLED界面数据刷新" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="1150" width="100" height="40" as="geometry" />
+          <mxGeometry x="187" y="1160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-13" value="判断是否为自动模式?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170.25" y="1218" width="133.5" height="80" as="geometry" />
@@ -146,7 +146,7 @@
           <mxGeometry x="240" y="760" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-40" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="360" width="100" height="40" as="geometry" />
+          <mxGeometry x="187" y="380" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bwaT_rcBIZcrtEscreeM-40" target="bwaT_rcBIZcrtEscreeM-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
