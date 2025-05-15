@@ -193,7 +193,7 @@
         <mxCell id="bwaT_rcBIZcrtEscreeM-47" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="1158" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bwaT_rcBIZcrtEscreeM-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.96;exitY=0.47;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bwaT_rcBIZcrtEscreeM-17" target="bwaT_rcBIZcrtEscreeM-18">
+        <mxCell id="bwaT_rcBIZcrtEscreeM-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bwaT_rcBIZcrtEscreeM-17" target="bwaT_rcBIZcrtEscreeM-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="1300" as="sourcePoint" />
             <mxPoint x="510" y="1340" as="targetPoint" />
