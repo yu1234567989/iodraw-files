@@ -17,7 +17,7 @@
           <mxGeometry x="174" y="450" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-5" value="连网是否成功?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="162" y="530" width="150" height="80" as="geometry" />
+          <mxGeometry x="162" y="545" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-6" value="与APP建立连接" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="153.5" y="650" width="167" height="48" as="geometry" />
@@ -150,7 +150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-39" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="249" y="610" width="40" height="30" as="geometry" />
+          <mxGeometry x="240" y="620" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-40" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="174" y="160" width="124" height="48" as="geometry" />
