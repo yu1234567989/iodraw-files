@@ -11,10 +11,10 @@
           <mxGeometry x="187" y="500" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-3" value="传感器初始化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="560" width="100" height="40" as="geometry" />
+          <mxGeometry x="187" y="590" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-4" value="WIFI连接" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="620" width="100" height="40" as="geometry" />
+          <mxGeometry x="187" y="660" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-5" value="连网是否成功?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="162" y="720" width="150" height="80" as="geometry" />
