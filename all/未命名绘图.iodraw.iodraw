@@ -44,7 +44,7 @@
           <mxGeometry x="171.75" y="1119" width="133.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-14" value="数据处理及控制电机" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="323" y="1220" width="100" height="40" as="geometry" />
+          <mxGeometry x="323" y="1290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-15" value="接受电机状态信息" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="1390" width="100" height="40" as="geometry" />
