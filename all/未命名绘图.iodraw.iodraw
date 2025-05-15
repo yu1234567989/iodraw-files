@@ -186,7 +186,7 @@
             <mxPoint x="320" y="1160" as="sourcePoint" />
             <mxPoint x="490" y="1350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="1258" />
+              <mxPoint x="373" y="1258" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -207,7 +207,7 @@
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.092;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bwaT_rcBIZcrtEscreeM-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="1230" as="sourcePoint" />
+            <mxPoint x="169" y="1260" as="sourcePoint" />
             <mxPoint x="165" y="1390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
