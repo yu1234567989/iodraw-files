@@ -41,7 +41,7 @@
           <mxGeometry x="188.5" y="1050" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-13" value="判断是否为自动模式?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="170.25" y="1188" width="133.5" height="80" as="geometry" />
+          <mxGeometry x="170.25" y="1218" width="133.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-14" value="数据处理及控制电机" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="323" y="1290" width="100" height="40" as="geometry" />
