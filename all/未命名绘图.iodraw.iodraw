@@ -20,7 +20,7 @@
           <mxGeometry x="165" y="570" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-6" value="与APP建立连接" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="680" width="100" height="40" as="geometry" />
+          <mxGeometry x="187" y="750" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-7" value="是否有按键按下?" style="rhombus;strokeWidth=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="162" y="810" width="150" height="80" as="geometry" />
