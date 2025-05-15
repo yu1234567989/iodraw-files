@@ -31,9 +31,6 @@
         <mxCell id="bwaT_rcBIZcrtEscreeM-9" value="采集环境温度数据" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="930" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bwaT_rcBIZcrtEscreeM-10" value="采集烟雾、光敏和甲烷数据" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="1000" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-11" value="系统打包上传APP" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="1070" width="100" height="40" as="geometry" />
         </mxCell>
@@ -94,14 +91,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bwaT_rcBIZcrtEscreeM-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="bwaT_rcBIZcrtEscreeM-9" target="bwaT_rcBIZcrtEscreeM-10">
+        <mxCell id="bwaT_rcBIZcrtEscreeM-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="bwaT_rcBIZcrtEscreeM-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="237" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bwaT_rcBIZcrtEscreeM-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="bwaT_rcBIZcrtEscreeM-10" target="bwaT_rcBIZcrtEscreeM-11">
+        <mxCell id="bwaT_rcBIZcrtEscreeM-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="bwaT_rcBIZcrtEscreeM-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="237" y="1040" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="bwaT_rcBIZcrtEscreeM-11" target="bwaT_rcBIZcrtEscreeM-12">
