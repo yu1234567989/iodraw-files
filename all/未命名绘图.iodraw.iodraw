@@ -8,7 +8,7 @@
           <mxGeometry x="187" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-2" value="OLED初始化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="189" y="220" width="100" height="40" as="geometry" />
+          <mxGeometry x="189" y="220" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="bwaT_rcBIZcrtEscreeM-3" value="传感器初始化" style="whiteSpace=wrap;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="174" y="380" width="124" height="48" as="geometry" />
